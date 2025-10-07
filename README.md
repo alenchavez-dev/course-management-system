@@ -1,6 +1,6 @@
 # 🧠 Course Management System (SQL Edition)
 
-🧑‍💻 Author
+🧑‍💻 Author:
 Alen Chavez
 
 A fully interactive, object-oriented Python console application that simulates a simple course management system — now powered by **SQLite** for persistent data storage.  

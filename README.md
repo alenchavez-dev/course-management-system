@@ -1,5 +1,8 @@
 # 🧠 Course Management System (SQL Edition)
 
+🧑‍💻 Author
+Alen Chavez
+
 A fully interactive, object-oriented Python console application that simulates a simple course management system — now powered by **SQLite** for persistent data storage.  
 
 This program allows users to:
@@ -70,6 +73,3 @@ The courses.db file is auto-generated and excluded from Git tracking.
 All CRUD operations are handled transparently through the database.py helper module.
 
 You can reset the database by simply deleting the courses.db file.
-
-🧑‍💻 Author
-Alen Chavez

@@ -1,0 +1,7 @@
+# Ignore SQLite database
+courses.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
